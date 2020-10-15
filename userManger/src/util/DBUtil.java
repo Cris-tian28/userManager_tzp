@@ -11,7 +11,7 @@ import java.sql.SQLException;
 /**
  * Created with IntelliJ IDEA.
  * Description: 连接数据库
- * User: GAOBO
+ * User: tzp
  * Date: 2020-07-13
  * Time: 20:06
  */
